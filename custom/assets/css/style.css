@@ -3,6 +3,7 @@
 
 * {
     box-sizing: border-box;
+    background-color: #ebead2;
 }
 
 .gallery {
@@ -42,6 +43,7 @@ a:hover, a:active {
 }
 h1 {
     text-align: center;
+    color: #2c4327;
     font-size: 6vw;
     letter-spacing: 0.1em;
     text-transform: uppercase;
